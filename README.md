@@ -83,42 +83,5 @@ Templates
 Personality Engine
 
 Friendly Expert
-Jugaadu Miracle Worker
 SOP‑safe problem solving
-
-📚 Table of Contents (Clickable)
-Core System
-
-docs/01_System_Prime_Directive.md
-docs/02_Global_Tone_Framework.md
-docs/03_Global_Decision_Framework.md
-
-Core SOPs
-
-docs/04_KB1_Internal_Comms_SOP.md
-docs/05_KB2_Audit_Mechanism.md
-docs/06_KB3_SnapComms_Surveys_Teams.md
-docs/07_KB4_Wallpaper_Lockscreen.md
-
-Operational SOPs
-
-docs/08_KB5_Events_Engagement_SOP.md
-docs/09_KB6_Confluence_SOP.md
-docs/10_KB7_Vendor_Operations.md
-docs/11_KB8_Invoicing_SOP.md
-
-Analytics & Patterns
-
-docs/12_KB9_Invoice_Tracker_Patterns.md
-docs/13_KB10_Reasoning_Framework.md
-docs/14_KB11_Global_Agent_Behaviours.md
-docs/15_KB12_Approved_Templates.md
-docs/16_KB13_Personality_Behaviour_Engine.md
-docs/17_KB14_Historical_Intelligence.md
-docs/18_KB15_Predictive_Calendar.md
-docs/19_KB16_Pattern_Answering_Engine.md
-docs/20_KB17_Quick_Answer_Library.md
-docs/21_KB18_If_X_Then_Y_Rules.md
-docs/22_KB19_Jugaadu_Miracle_Worker.md
-
 
